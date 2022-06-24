@@ -105,5 +105,5 @@ get_config_files()
 }
 
 which xmlstarlet || die 255 "Missing xmlstartlet binary."
-
+dummy
 # vim: ai ts=4 sw=4 noet sts=4 ft=sh
